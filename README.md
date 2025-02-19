@@ -1,1 +1,3 @@
-# Assignment_5
+In this model i have updated more layers of Convolutional Layers and fully connected layers which results model accuracy is increased and the loss is also decreased. The dropout layers helped reduce overfitting by forcing the network to learn more robust features and However, training time increased because of the added complexity in the model.
+Prediction on First 4 Test Images: The model was used to predict the first 4 images from the test dataset.The predicted labels were compared to the actual labels.Accuracy of these 4 predictions was reported, checking if the model correctly classified them.
+Loss & Accuracy Visualization:Loss over epochs: Showed steady decrease in training and validation loss Accuracy over epochs: Showed consistent improvement in both training and validation accuracy.Plots were generated to analyze model behavior over time.
